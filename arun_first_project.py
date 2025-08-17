@@ -7,3 +7,4 @@ d=sum(5,6)
 print(d)
 
 print("learning")
+print("kali")
