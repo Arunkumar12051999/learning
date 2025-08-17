@@ -1,0 +1,7 @@
+def sum(a,b):
+    c=a+b
+    return c
+
+
+d=sum(5,6)
+print(d)
